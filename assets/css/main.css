@@ -2400,7 +2400,8 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				width:  100px;
+    			height: 100px;
 			}
 
 /* List */
