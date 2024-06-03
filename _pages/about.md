@@ -23,8 +23,6 @@ redirect_from:
 
 💪🏾 I want to focus on developing and shipping AI products that make a difference.
 
-# Selected Experience
-
 
 # Selected Experiences
 
