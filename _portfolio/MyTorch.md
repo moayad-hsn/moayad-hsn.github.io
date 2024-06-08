@@ -2,6 +2,7 @@
 title: "MyTorch"
 excerpt: "MyTorch is a python Deep Learning framework. Implemented using Numpy, the framework supports functionality for building and training deep learning networks."
 collection: portfolio
+
 ---
 
 MyTorch is a comprehensive deep learning library that offers all essential functionalities required for building and training neural networks. 

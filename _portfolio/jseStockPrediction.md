@@ -2,6 +2,7 @@
 title: "JSE Stock Trends Prediction"
 excerpt: "We model and predict Johannesburg Securities Exchange (JSE) stock trends using Markov Chains and benchmark them against popular machine learning techniques."
 collection: portfolio
+paperurl: 'https://www.canva.com/design/DAEyONSnryg/0CN2azOR5vucMQKxE0wX8Q/edit?utm_content=DAEyONSnryg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 ---
 
 Trading with securities and stock indices is becoming increasingly popular among investors. Stock exchange trading allows investors to hedge their market risk while also providing a good investment opportunity, and in some cases, they can take advantage of arbitration conditions. 
