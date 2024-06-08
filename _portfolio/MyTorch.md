@@ -1,6 +1,6 @@
 ---
 title: "MyTorch"
-excerpt: "MyTorch is a python Deep Learning framework. Implemented using Numpy, the framework supports functionality for building and training deep learning networks. <br/><img src='/images/mytorch.webp' width=200 height=200>"
+excerpt: "MyTorch is a python Deep Learning framework. Implemented using Numpy, the framework supports functionality for building and training deep learning networks."
 collection: portfolio
 ---
 

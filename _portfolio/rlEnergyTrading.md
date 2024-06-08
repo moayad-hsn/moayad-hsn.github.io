@@ -1,6 +1,6 @@
 ---
 title: "Comparison of Deep Reinforcement Learning Algorithms in Enhancing Energy Trading in Microgrids"
-excerpt: "We propose using microgrids powered by renewable energy and enhanced with machine learning for energy trading to improve electricity supply in rural Sudan. <br/><img src='/images/500x300.png' width=200 height=200>"
+excerpt: "We propose using microgrids powered by renewable energy and enhanced with machine learning for energy trading to improve electricity supply in rural Sudan."
 collection: portfolio
 venue: 'Journal 1'
 slidesurl: 'https://ieeexplore.ieee.org/abstract/document/9429565'
