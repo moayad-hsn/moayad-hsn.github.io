@@ -1,6 +1,6 @@
 ---
 title: "JSE Stock Trends Prediction"
-excerpt: "We model and predict Johannesburg Securities Exchange (JSE) stock trends using Markov Chains and benchmark them against popular machine learning techniques. <br/><img src='/images/jse.webp'>"
+excerpt: "We model and predict Johannesburg Securities Exchange (JSE) stock trends using Markov Chains and benchmark them against popular machine learning techniques. <br/><img src='/images/jse.webp' width=200 height=200>"
 collection: portfolio
 ---
 

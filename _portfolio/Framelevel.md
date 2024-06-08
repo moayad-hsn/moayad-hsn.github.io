@@ -1,6 +1,6 @@
 ---
 title: "Frame Level Speech Recognition"
-excerpt: "Application of  feedforward neural networks to recognize phoneme states in audio recordings from the Wall Street Journal dataset. <br/><img src='/images/framelevel.webp'>"
+excerpt: "Application of  feedforward neural networks to recognize phoneme states in audio recordings from the Wall Street Journal dataset. <br/><img src='/images/framelevel.webp' width=200 height=200>"
 collection: portfolio
 ---
 
