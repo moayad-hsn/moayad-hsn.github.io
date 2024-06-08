@@ -4,7 +4,8 @@ main:
     url: /files/resume.pdf
 
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: https://scholar.google.es/citations?user=-AIQNFMAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
@@ -14,7 +15,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-    url: https://scholar.google.es/citations?user=-AIQNFMAAAAJ&hl=en
         
   # - title: "Blog Posts"
   #   url: /year-archive/

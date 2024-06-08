@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Moayad's Home Page"
 title_separator          : "-"
-name                     : &name "Boris Meinardus"
+name                     : &name "Moayad Elamin"
 description              : &description "personal description"
 url                      : https://moayad-hsn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Moayad Elamin"
-  avatar           : "Profile-pic.png"
-  bio              : "Machine Learning Engineer & Researcher | AI, Research, Sustainability"
+  avatar           : "profile-pic.png"
+  bio              : "Machine Learning Engineer & Researcher | AI4D"
   location         : "Kigali, Rwanda"
   employer         : "Trust Stamp"
   pubmed           : 
