@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Illestration of working on AI4D](/images/xgboost_is_better.webp){: .align-right width='300px}
+![Illestration of working on AI4D](/images/xgboost_is_better.webp){: .align-right height='300px' width='300px'}
 
 🇷🇼 I'm a Machine Learning Engineer and Researcher based in Kigali, Rwanda
 
