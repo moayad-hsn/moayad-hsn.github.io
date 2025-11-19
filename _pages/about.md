@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏾 Hello there, I'm Moayad!"
+title: "Hello there, I'm Moayad!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Moayad Elamin, a machine learning engineer working on responsible AI for low-resource languages.
+I am a Machine Learning Engineer and Researcher specializing in Responsible AI and Low-Resource NLP for the Global South.
 
-CMU'23 Graduate with a Masters in Engineering Artificial Intelligence (MSEAI'23)
+Currently, I work at TrustStamp, where I design secure identity systems and evaluate Large Language Models (LLMs) for hallucination and faithfulness in production. I am also a graduate of Carnegie Mellon University (MS '22), where I focused on speech recognition for East African languages.
 
-I design and evaluate AI systems that serve African communities safely.
 
-I've published work in ICLR and EMNLP workshops, and in IEEE's ICCCEEE and IST-Africa in topics on East African Speech Recognition and in Reinforcement Learning for Energy.
+My research goal: I am working on building safe, culturally aligned LLMs for critical domains in Africa. I am interested in how we can measure safety and helpfulness in lower resource high impact languages without compromising utility.
 
+
+### I am currently applying for PhD positions for Fall 2026.
+
+# Current Research Focus: Safety for African LLMs
+As LLMs become the first line of defense for mental health support in Africa, we risk deploying models that are culturally misaligned or unsafe. I am currently designing benchmarks to measure safety, helpfulness, and calibration of LLMs in Swahili and Arabic, specifically for youth-typical scenarios.
+
+# News
+* **[Nov 2025]** Applying for PhD programs in AI Safety & NLP.
+* **[Oct 2025]** Paper accepted at ArabicNLP @ EMNLP 2025: "Enhancing Arabic Readability Prediction".
+* **[May 2024]** Published "Generating African Artistic Styles" at IST-Africa 2024.
+* **[Oct 2023]** Joined TrustStamp as a Machine Learning Engineer.
 
 # Selected Experiences
 
@@ -25,11 +35,14 @@ I've published work in ICLR and EMNLP workshops, and in IEEE's ICCCEEE and IST-A
 - **Innovation Baylasan**: Directed data science initiatives and developed forecasting tools for social-impact organizations.
 
 ## Research
-- **Enhancing Arabic Readability Prediction with Hybrid BERT and Linguistic Features**: Developed a hybrid model combining deep contextual representations from AraBERTv02 with over 100 engineered linguistic features (lexical, morphological, and syntactic).
-- **Multilingual ASR for Kinyarwanda Language**: Developed Kinyarwanda, Swahili, and Luganda speech models using conformers and community-sourced data.
-- **Generating African Artistic Styles Using Textual Inversion**: Introduced a framework to create “learned words” that embed regional aesthetics directly into text-to-image models, enabling culturally grounded and interpretable generative art.
-- **Enhancing Energy Trading Between Islanded Microgrids**: Optimized energy trading between islanded grids using PPO, reducing simulated costs by 20%.
-- **Attention-Based Speech Recognition**: Designed an attention-based ASR model achieving strong results on the WSJ benchmark.
+- **Enhancing Arabic Readability Prediction with Hybrid BERT and Linguistic Features**: 
+  * ArabicNLP Workshop @ EMNLP 2025 - [Link](https://aclanthology.org/2025.arabicnlp-sharedtasks.49.pdf)
+- **Multilingual ASR for Kinyarwanda Language**:
+  * AfricaNLP workshop @ ICLR 2023 - [Link](https://openreview.net/pdf?id=tuUHjowTKpC)
+- **Generating African Artistic Styles Using Textual Inversion**: 
+  * IST-Africa 2024 - [Link](https://ieeexplore.ieee.org/abstract/document/10569305/)
+- **Enhancing Energy Trading Between Islanded Microgrids**:
+  * ICCCEEE 2021 - [Link](https://ieeexplore.ieee.org/abstract/document/9429565)
 
 ## Community Building
 - **Zindi.africa**: Served as the Country Ambassador for Sudan.
