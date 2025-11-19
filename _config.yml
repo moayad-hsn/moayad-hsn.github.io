@@ -84,7 +84,7 @@ author:
   avatar           : "profile-pic.png"
   bio              : "Machine Learning Engineer & Researcher | AI4D"
   location         : "Kigali, Rwanda"
-  employer         : "Trust Stamp"
+  employer         : # "Trust Stamp"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-AIQNFMAAAAJ&hl=en"
   email            : "melamin@alumni.cmu.edu"

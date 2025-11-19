@@ -1,0 +1,19 @@
+current directory: /home/moayad/moayad-hsn.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/moayad/moayad-hsn.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251112-37488-43iy29 sitelibdir\=./.gem.20251112-37488-43iy29 clean
+
+current directory: /home/moayad/moayad-hsn.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251112-37488-43iy29 sitelibdir\=./.gem.20251112-37488-43iy29
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/moayad/moayad-hsn.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251112-37488-43iy29 sitelibdir\=./.gem.20251112-37488-43iy29 install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20251112-37488-43iy29
+
+current directory: /home/moayad/moayad-hsn.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251112-37488-43iy29 sitelibdir\=./.gem.20251112-37488-43iy29 clean
